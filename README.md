@@ -1,4 +1,4 @@
-# Stylish Threads - Premium Clothing Store
+# Stylish Threads -  Clothing Store
 
 A modern e-commerce platform built with React, TypeScript, and Tailwind CSS.
 
